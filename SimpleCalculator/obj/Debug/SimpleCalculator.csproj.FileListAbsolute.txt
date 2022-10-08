@@ -1,0 +1,101 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\ResGen.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\ResGen.write.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\GenerateResource.write.1.tlog
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 7-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Project 6-1 (Simple Calculator)\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 07\SimpleCalculatorExceptionHandling\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculatorDataValidation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\Simple Calculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\Simple Calculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\Simple Calculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 07\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.SuggestedBindingRedirects.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\CSD-2354 Exam_02\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.SuggestedBindingRedirects.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+N:\Lambton\Term-2\Programming C#.NET-[CSD-2354]\Tests\Test-2\C0838989-TEST-2\SimpleCalculator with data validation\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
